@@ -4,7 +4,7 @@
  * print_line - draw a straight line in terminal
  *
  * @n: the number of times of the character should be printed
- * 
+ *
  * Return: Always 0 (success)
  */
 
